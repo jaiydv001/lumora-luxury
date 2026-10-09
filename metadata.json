@@ -1,0 +1,6 @@
+{
+  "name": "LUMORA — Luxury 3D Architectural Lighting",
+  "description": "Immersive 3D e-commerce experience for bespoke luxury chandeliers, architectural lighting, and spatial visualizers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
